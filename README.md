@@ -1,1 +1,1 @@
-# By Mandy Kan
+Some interesting Python exercise done previously.
