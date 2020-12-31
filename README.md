@@ -4,4 +4,4 @@
    * [View more details](./some-problem-solving-questions)
 1. **Tic Tac Toe :** Tic tac toe game for 2 players.
    * [View the code](./TicTacToe/Tic_Tac_Toe.ipynb)
-   * ![Sample Image](./TicTacToe/sample.png)
+   <img src="./TicTacToe/sample.png" width=50%>
