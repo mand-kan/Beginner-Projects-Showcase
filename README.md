@@ -6,8 +6,13 @@ Getting data from RECRUIT HK & CTGOODJOBS for industry analysis
 * [View code](./WebScraping-JobMarketTrend/recruit-hk-analysis.ipynb)
 <img src="./WebScraping-JobMarketTrend/job2.png" width=50%/>
 <h5>Remarks: This is a group project of 3</h5>
+
+### 2. **Web Scraping: IKEA:**
+Getting data from IKEA for recommendation
+* [View code](./WebScraping-IKEAHK/ikea_scraping.ipynb)
    
-### 2. **Tic Tac Toe:**
+
+### 3. **Tic Tac Toe:**
 Tic tac toe game for 2 players.
    * [View code](./TicTacToe/Tic_Tac_Toe.ipynb)
    <img src="./TicTacToe/sample.png" width=45%/>
